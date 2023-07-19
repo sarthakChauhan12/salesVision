@@ -1,0 +1,50 @@
+
+ .graph-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown-container {
+  margin-bottom: 20px;
+}
+
+.styled-dropdown {
+  font-size: 16px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+  background-color: #fff;
+  color: #333;
+  outline: none;
+}
+
+.right-panel-button {
+  font-size: 16px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.right-panel-button:hover {
+  background-color: #0056b3;
+}
+
+.highcharts-container {
+  width: 100%;
+  height: 400px;
+}
+
+h3 {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
