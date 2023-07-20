@@ -1,6 +1,12 @@
   
 Project Name : SalesVision   
 
+## Screenshots:
+![image](https://github.com/sarthakChauhan12/salesVision/assets/104530435/9859150c-7f3f-4760-bd5e-84707116d151)
+![image](https://github.com/sarthakChauhan12/salesVision/assets/104530435/f75ce73d-ef76-44d9-9f2e-9910970b547c)
+![image](https://github.com/sarthakChauhan12/salesVision/assets/104530435/95ed2d9c-45f1-4a6e-af1b-d184e715da6d)
+
+
 Installation Instructions  
 --
 (For python backend to run, download code runner and ensure you have these libraries installed. Run the python backend using coderunner)   
